@@ -1,1 +1,1 @@
-# Individual Machine Learning Projects
+# Individual Machine Learning Projects_Python
