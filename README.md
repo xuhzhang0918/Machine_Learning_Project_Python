@@ -1,1 +1,1 @@
-# BAX-452-Machine-Learning
+# Individual Machine Learning Projects
